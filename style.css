@@ -15,4 +15,5 @@ body{
 .navigation{
     display: flex;
     justify-content: space-between;
+    background-color: #0aa1dd;
 }
